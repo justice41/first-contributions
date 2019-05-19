@@ -82,6 +82,7 @@
 - [Sandeep Vellore] (https://github.com/sandeepvc)
 - [Rob Cotter](https://github.com/robcotter)
 - [Daniel Karam](https://github.com/danielkv7)
+- [Jonagold] (https://github.com/justice41)
 - [JBucho](https://github.com/JBucho)
 - [Aline Akuzwe](https://github.com/alak01)
 - [SB Tracy](https://github.com/sbtries) 
